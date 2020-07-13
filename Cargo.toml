@@ -1,0 +1,10 @@
+[package]
+name = "linkedhashmap"
+version = "0.1.0"
+authors = ["xrop <xrop@xrop.me>"]
+edition = "2018"
+description = "Linked Hash Map implementation for educational purposes"
+repository = "https://gitlab.com/xrop/linkedhashmap.git"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
